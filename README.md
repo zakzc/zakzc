@@ -1,3 +1,5 @@
+<header><link rel="stylesheet" href="devicon.min.css"></header>
+
 ## Hello there,
 
 I'm Zak and I am a full-stack developer which means I spend most of my time either 💻  making things or 📝 learning how to make things better.
@@ -10,121 +12,18 @@ If you want to see some of my previous projects, you can check the repos here or
 <h3 align="left">Languages, tools and technologies I use:</h3>
 <br/>
 <p align="left">
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em" class="devicon-babel-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<i style="font-size: 4em" class="devicon-bootstrap-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-css3-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-express-original colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-figma-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-git-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-github-original colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-graphql-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-gulp-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-heroku-original colored"></i>
-
-<br/>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-html5-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-javascript-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-jest-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-jquery-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-meteor-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-mongodb-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-mysql-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-nodejs-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-php-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-python-plain colored"></i>
-
-<br/>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-react-original colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-redux-original colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  style="font-size: 4em"  class="devicon-sass-original colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  style="font-size: 4em"  class="devicon-tailwindcss-original-wordmark colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-trello-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-typescript-plain colored"></i>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-visualstudio-plain colored"></i><!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<!-- in your body -->
-<i style="font-size: 4em"  class="devicon-webpack-plain colored"></i>
-
+<a href="Bootstrap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="CSS Tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="Figma: the collaborative interface design tool." target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</a>
+<a href="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="W3C HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="JavaScript | MDN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="The most popular database for modern apps" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+<a href="MySQL" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="PHP: Hypertext Preprocessor" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <a href="Sass: Syntactically Awesome Style Sheets" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="Tailwind CSS - Rapidly build modern websites without ever leaving your HTML." target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></a></p>
 
 <br/><br/>
 
