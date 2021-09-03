@@ -1,11 +1,8 @@
-<header><link rel="stylesheet" href="devicon.min.css"></header>
+![profile image](./assets/img/littleProgrammer.png)
 
-## Hello there,
+I'm Zak and I am a full-stack developer which means I spend most of my time either making things with code 💻 or learning how to make things better, faster, prettier etc 📝 .
 
-I'm Zak and I am a full-stack developer which means I spend most of my time either 💻  making things or 📝 learning how to make things better.
-
-If you want to see some of my previous projects, you can check the repos here or on my website 🔗 at: https://zakzangrando.com/. 
-
+If you want to see some of my previous projects you can check the repos here or, if you want to check more info on me, you can check my website 🔗 at: https://zakzangrando.com/.
 
 <br/>
 
@@ -28,6 +25,3 @@ If you want to see some of my previous projects, you can check the repos here or
 <br/><br/>
 
 <h3 align="left">Stats:</h3><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakzc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakzc&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-
-
-
