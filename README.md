@@ -1,4 +1,4 @@
-![profile image](./assets/img/littleProgrammer.png)
+![profile image](./assets/img/littleProgrammer.jpg)
 
 📝 I'm Zak and I am a full-stack developer. This means I spend most of my time either making things with code 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use, mostly, React, Node and modern JS. Currently studying React-Native.
 
