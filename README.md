@@ -1,6 +1,6 @@
 ![profile image](./assets/img/littleProgrammer.jpg)
 
-📝 I'm Zak and I am a full-stack developer. This means I spend most of my time either making things with code 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use, mostly, React, Node and modern JS. Currently studying React-Native.
+📝 I am a full-stack developer. This means I spend most of my time either making things with code 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use, mostly, React, Node, Sass, modern JS and TypeScript. I am currently studying React-Native.
 
 If you want to see some of my previous projects you can check the repos here or, if you want to check more info on me, you can check my website 🔗 at: https://zakzangrando.com/ where you will find my portfolio or earlier projects.
 
