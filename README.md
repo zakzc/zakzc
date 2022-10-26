@@ -1,8 +1,6 @@
-![profile image](./assets/img/littleProgrammer.jpg)
+Hi, my name is Zak. I am a full-stack developer. This means I like to spend my time involved with the craft-science-art that is coding. Making things 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use React, Node, Sass, modern JS and TypeScript professionally.
 
-📝 I am a full-stack developer. This means I like to spend my time involved with the craft-science-art that is coding. Making things 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use, mostly, React, Node, Sass, modern JS and TypeScript. I am currently studying React-Native.
-
-If you want to see some of my previous projects you can check the repos here or, if you want to check more info on me, you can check my website 🔗 at: https://zakzangrando.com/ where you will find my portfolio.
+If you want to see some of my previous projects you can check the repos here or on linkedin 🔗 at: https://www.linkedin.com/in/zakzangrando/.
 
 Nice to meed you and get in touch.
 
@@ -31,7 +29,6 @@ Nice to meed you and get in touch.
 <a href="Jest" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest"width="60" height="60"/> </a>
 <a href="Redux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"width="60" height="60"/> </a>
 <a href="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-<a href="Django" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/>
 <a href="PHP: Hypertext Preprocessor" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
 <a href="PHP: Hypertext Preprocessor" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="php" width="60" height="60"/>
 <a href="Git" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="60" height="60"/> </a>
