@@ -1,12 +1,12 @@
-Hi, my name is Zak. I am a full-stack developer. This means I like to spend my time involved with the craft-science-art that is coding. Making things 💻 or studying how to make these things better (faster, prettier etc). My earlier projects used PHP and Wordpress, then Python and Django and, nowadays, I use React, Node, Sass, modern JS and TypeScript professionally.
+Hi, my name is Zak. I am a full-stack developer. This means I like to spend my time trying to create good code and, overall, trying to make applications better (faster, prettier etc). My earlier projects, a long long time ago, used PHP and Wordpress, then Python and Django and, nowadays, I use React, Node, and TypeScript professionally.
 
-If you want to see some of my previous projects you can check the repos here or on linkedin 🔗 at: https://www.linkedin.com/in/zakzangrando/.
+If you want to know more, you can check the repos here or on linkedin 🔗 at: https://www.linkedin.com/in/zakzangrando/.
 
 Nice to meed you and get in touch.
 
 <br/>
 
-## Languages, tools and technologies I use:</h3>
+## Languages, tools and technologies I used in one moment or another:</h3>
 
 <br/>
 <p align="left">
