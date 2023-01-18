@@ -6,6 +6,14 @@ Nice to meed you and get in touch.
 
 <br/>
 
+## Languages, tools and technologies that I use:</h3>
+
+<p>
+<a href="TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> </a>
+<a href="React.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a>
+<a href="JavaScript | MDN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="60" height="60"/></a>
+</p>
+
 ## Languages, tools and technologies I used in one moment or another:</h3>
 
 <br/>
@@ -14,13 +22,9 @@ Nice to meed you and get in touch.
 <a href="Bootstrap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
 <a href="CSS Tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a href="Sass: Syntactically Awesome Style Sheets" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
-<a href="Tailwind CSS - Rapidly build modern websites without ever leaving your HTML." target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a></a>
-<a href="JavaScript | MDN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="60" height="60"/> </a>
-<a href="TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> </a></a>
+<a href="Tailwind CSS - Rapidly build modern websites without ever leaving your HTML." target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
 <a href="Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-<a href="React.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a>
 <a href="Express.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="60" height="60"/> </a>
-</p>
 
 <p>
 <a href="Meteor JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="meteor" width="60" height="60"/>
@@ -50,5 +54,3 @@ Nice to meed you and get in touch.
 <!-- ## My stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakzc&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakzc&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
-
-<br/><br/><br/>
