@@ -81,6 +81,7 @@ Nice to meet you and get in touch.
 | [changeFileNameToDate](https://github.com/zakzc/changeFileNameToDate) | Python | - |
 | [zak-theme01](https://github.com/zakzc/zak-theme01) | - | - |
 | [news-hub](https://github.com/zakzc/news-hub) | TypeScript | - |
+| [Sereia](https://github.com/zakzc/Sereia) | Swift | A native macOS Mermaid diagram visualizer |
 
 <br/><br/>
 
