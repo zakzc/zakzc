@@ -70,6 +70,17 @@ Nice to meet you and get in touch.
 <a href="Figma: the collaborative interface design tool." target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
 </p>
 
+## My repos
+
+| Repo | Language | Description |
+| --- | --- | --- |
+| [diagramma](https://github.com/zakzc/diagramma) | Python, TypeScript | Turn a GitHub repo into a C4 component diagram (Mermaid), with an editable split view and history. Runs locally. |
+| [mypersonalpage](https://github.com/zakzc/mypersonalpage) | TypeScript | My personal webpage |
+| [invaders](https://github.com/zakzc/invaders) | Rust | - |
+| [thegame](https://github.com/zakzc/thegame) | Python | - |
+| [changeFileNameToDate](https://github.com/zakzc/changeFileNameToDate) | Python | - |
+| [zak-theme01](https://github.com/zakzc/zak-theme01) | - | - |
+
 <br/><br/>
 
 <!-- ## My stats
