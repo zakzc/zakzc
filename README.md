@@ -80,6 +80,7 @@ Nice to meet you and get in touch.
 | [thegame](https://github.com/zakzc/thegame) | Python | - |
 | [changeFileNameToDate](https://github.com/zakzc/changeFileNameToDate) | Python | - |
 | [zak-theme01](https://github.com/zakzc/zak-theme01) | - | - |
+| [news-hub](https://github.com/zakzc/news-hub) | TypeScript | - |
 
 <br/><br/>
 
