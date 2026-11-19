@@ -1,37 +1,58 @@
-Hi, my name is Zak. I am a full-stack developer. This means I like to spend my time trying to create good code and, overall, trying to make applications better (faster, prettier etc). My earlier projects, a long long time ago, used PHP and Wordpress, then Python and Django and, nowadays, I use React, Node, and TypeScript professionally.
+Hi, my name is Zak. I am a software engineer based in Poland, working across the full stack with a focus on frontend and cloud-based solutions. I like to spend my time writing good code and making applications better (faster, prettier etc). My earlier projects, a long long time ago, used PHP and WordPress, then Python and Django and, nowadays, I use React, Next.js, Node, and TypeScript professionally.
 
-If you want to know more, you can check the repos here or on linkedin 🔗 at: https://www.linkedin.com/in/zakzangrando/.
+## What I do now
 
-Nice to meed you and get in touch.
+- **Software Engineer at S&P Global** (since February 2023): building and optimizing high-performance, cloud-based web applications with Next.js, React, Redux and TypeScript/JavaScript. I work with Azure and Azure DevOps (CI pipelines), API Management, Kibana for monitoring, Webpack, and Figma for UI prototyping with design teams.
+- **Before that:** Full Stack Engineer at Tata Consultancy Services (2021 - 2023), building scalable apps for an international company serving thousands of users worldwide, working in a SAFe agile setup.
+- **A different life before code:** 13 years at the Brazilian Ministry of Foreign Affairs.
+
+## Education
+
+- B.Sc. Computer Software Engineering and Associate's degree in Computer Systems Analysis, Centro Universitário da Grande Dourados
+- MBA, Computer and Information Systems Security, Cruzeiro do Sul Virtual
+- B.A. English and Translation, and M.A. Literary Theory, Universidade de Brasília
+
+I speak Portuguese (native), English (full professional), and have working knowledge of French, Italian and Spanish.
+
+If you want to know more, you can check the repos here or on LinkedIn 🔗 at: https://www.linkedin.com/in/zakzangrando/.
+
+Nice to meet you and get in touch.
 
 <br/>
 
-## Languages, tools and technologies that I use:</h3>
+## Languages, tools and technologies that I use:
 
 <p>
 <a href="TypeScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/> </a>
 <a href="React.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="60" height="60"/> </a>
 <a href="JavaScript | MDN" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"width="60" height="60"/></a>
+<a href="Next.js" target="_blank"> <img src="https://cdn.simpleicons.org/nextdotjs/8C8C8C" alt="nextjs" width="60" height="60"/> </a>
+<a href="Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60" height="60"/> </a>
+<a href="Redux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a>
+<a href="Microsoft Azure" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="60" height="60"/> </a>
+<a href="Azure DevOps" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops" width="60" height="60"/> </a>
+<a href="Webpack" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="60" height="60"/> </a>
+<a href="Figma" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
+<a href="Kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="60" height="60"/> </a>
+<a href="Claude Code" target="_blank"> <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/claudecode-color.svg" alt="claude-code" width="60" height="60"/> </a>
 </p>
 
-## Languages, tools and technologies I used in one moment or another:</h3>
+## Languages, tools and technologies I used in one moment or another:
 
 <br/>
 <p align="left">
 <a href="W3C HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-<a href="Bootstrap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
+<a href="Bootstrap" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60" height="60"/> </a>
 <a href="CSS Tutorial" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a href="Sass: Syntactically Awesome Style Sheets" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="60"/> </a>
 <a href="Tailwind CSS - Rapidly build modern websites without ever leaving your HTML." target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
 <a href="Node.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
-<a href="Express.js" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="60" height="60"/> </a>
+<a href="Express.js" target="_blank"> <img src="https://cdn.simpleicons.org/express/8C8C8C" alt="Express" width="60" height="60"/> </a>
 
 <p>
 <a href="Meteor JS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-original.svg" alt="meteor" width="60" height="60"/>
 <a href="Babel" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="babel" width="60" height="60"/>
-<a href="WebPack" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="60" height="60"/>
 <a href="Jest" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest"width="60" height="60"/> </a>
-<a href="Redux" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"width="60" height="60"/> </a>
 <a href="Python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 <a href="PHP: Hypertext Preprocessor" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/>
 <a href="PHP: Hypertext Preprocessor" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="php" width="60" height="60"/>
